@@ -1,4 +1,6 @@
-**Michael's page on banana pareidolia**
+## Michael's page on banana pareidolia
+
+**Welcome** to my page about bananas that look like faces.
 
 [Homepage](https://mrumery.github.io/)
 
