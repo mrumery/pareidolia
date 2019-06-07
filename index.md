@@ -2,7 +2,7 @@
 
 **Welcome** to my page about bananas that look like faces.
 
-[Homepage](https://mrumery.github.io/)
+[Homepage](https://mrumery.github.io/bananas)
 
 ![duck face banana](https://i.kym-cdn.com/photos/images/newsfeed/000/757/610/daa.jpg)
 
